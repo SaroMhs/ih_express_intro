@@ -1,0 +1,24 @@
+{
+  "name": "monprojet",
+  "version": "1.0.0",
+  "description": "INTRO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaroMhs/ih_express_intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaroMhs/ih_express_intro/issues"
+  },
+  "homepage": "https://github.com/SaroMhs/ih_express_intro#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
+}
